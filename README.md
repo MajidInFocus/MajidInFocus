@@ -2,7 +2,7 @@
 <!-- Profile Title and Introduction -->
 <h1 align="center">Hi 👋, I'm MJ Harris </h1>
 <h3 align="center"> 🖥️ Computer Science Enthusiast  |  🌿 Nature Lover </h3>
-<h4> 🧬 Exploring the digital and natural worlds with equal curiosity.</h4>
+<h5 align="center" > 🧬 Exploring the digital and natural worlds with equal curiosity.</h5>
 
 <!-- Bio -->
 <p align="center">
