@@ -1,7 +1,8 @@
 
 <!-- Profile Title and Introduction -->
 <h1 align="center">Hi 👋, I'm MJ Harris </h1>
-<h3 align="center">A passionate Data Science and Natural Science Enthusiast</h3>
+<h3 align="center">🖥️ Computer Science Enthusiast | 🌿 Nature Lover </h3>
+<h4>🧬 Exploring the digital and natural worlds with equal curiosity.</h4>
 
 <!-- Bio -->
 <p align="center">
@@ -41,15 +42,24 @@
 <h2 align="center">💼 Projects</h2>
 <ul>
   <li>
-    <strong>Project Name 1</strong> - A brief description of this project, what it does, and the tools used.
+    <strong>Project Management System🗂️📊🛠️</strong> - The Subject Management System (SMS) is a comprehensive academic management tool I developed to streamline the handling of educational data. It includes user authentication, role-specific dashboards, and robust database management. Built with Java, Swing for the GUI, and MySQL for the database, the system efficiently manages tasks such as course registration, subject assignments, and student-teacher interactions. My goal was to implement knowledge of Java and SQL to a Use Case by creating a functional, secure, and scalable system tailored to the needs of educational institutions.
     <ul>
-      <li>🌐 <a href="https://github.com/MajidInFocus/[Project1]">View on GitHub</a></li>
+      <li>🌐 <a href="https://github.com/MajidInFocus/Subject-Management-System-SMS-Subject-Management-System-SMS-">View on GitHub</a></li>
     </ul>
   </li>
+
   <li>
-    <strong>Project Name 2</strong> - Another project, possibly related to data science, astrophysics, or a related interest.
+      <strong>Public Scheduling System UI 🚍</strong> - The Public Scheduling System UI is a user-friendly interface developed to manage public transportation schedules for both buses and trains. This project focuses on creating a responsive and intuitive UI, with future plans to integrate the backend for full functionality. Key features include schedule management, booking operations, and admin dashboards. Built in Java, the system is designed to be scalable and flexible, supporting multiple backend options such as simple arrays for data handling or SQL database integration for production-level applications.
+      <ul>
+        <li>🌐 <a href="https://github.com/MajidInFocus/src
+  ">View on GitHub</a></li>
+      </ul>
+  </li>
+  <li>
+    <strong>Train Ticketing System 🚂</strong> - The Train Ticketing System is a Python-based project I developed to practice coding concepts while preparing for my IGCSE Computer Science exam. The system allows users to view available train times, purchase tickets, and track the number of passengers and revenue. Key features include ticket availability, a user-friendly purchase process, and an end-of-day summary of transactions. This project introduced me to programming fundamentals such as loops, conditionals, functions, and data handling, it was the first step took in my coding journey.
     <ul>
-      <li>🌐 <a href="https://github.com/MajidInFocus/[Project2]">View on GitHub</a></li>
+      <li>🌐 <a href="https://github.com/MajidInFocus/My-First-Project-
+">View on GitHub</a></li>
     </ul>
   </li>
 </ul>
@@ -58,7 +68,6 @@
 <h2 align="center">💡 Fun Facts</h2>
 <ul>
   <li>✨ I’m fascinated by the stars and the mysteries of the cosmos</li>
-  <li>🌌 I love working on data from space observatories and telescopes</li>
   <li>📚 When I'm not coding, you can find me reading about physics or watching documentaries on astrophysics!</li>
 </ul>
 
