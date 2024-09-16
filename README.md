@@ -42,9 +42,9 @@
 <h2 align="center">💼 Projects</h2>
 <ul>
   <li>
-    <strong>Project Management System🗂️📊🛠️</strong> - The Subject Management System (SMS) is a comprehensive academic management tool I developed to streamline the handling of educational data. It includes user authentication, role-specific dashboards, and robust database management. Built with Java, Swing for the GUI, and MySQL for the database, the system efficiently manages tasks such as course registration, subject assignments, and student-teacher interactions. My goal was to implement knowledge of Java and SQL to a Use Case by creating a functional, secure, and scalable system tailored to the needs of educational institutions.
+    <strong>Management System🧑‍💻</strong> - The Subject Management System (SMS) is a comprehensive academic management tool I developed to streamline the handling of educational data. It includes user authentication, role-specific dashboards, and robust database management. Built with Java, Swing for the GUI, and MySQL for the database, the system efficiently manages tasks such as course registration, subject assignments, and student-teacher interactions. My goal was to implement knowledge of Java and SQL to a Use Case by creating a functional, secure, and scalable system tailored to the needs of educational institutions.
     <ul>
-      <li>🌐 <a href="https://github.com/MajidInFocus/Subject-Management-System-SMS-Subject-Management-System-SMS-">View on GitHub</a></li>
+      <li>🌐 <a href="https://github.com/MajidInFocus/Subject-Management-System-SMS-">View on GitHub</a></li>
     </ul>
   </li>
 
