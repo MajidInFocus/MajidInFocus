@@ -51,15 +51,13 @@
   <li>
       <strong>Public Scheduling System UI 🚍</strong> - The Public Scheduling System UI is a user-friendly interface developed to manage public transportation schedules for both buses and trains. This project focuses on creating a responsive and intuitive UI, with future plans to integrate the backend for full functionality. Key features include schedule management, booking operations, and admin dashboards. Built in Java, the system is designed to be scalable and flexible, supporting multiple backend options such as simple arrays for data handling or SQL database integration for production-level applications.
       <ul>
-        <li>🌐 <a href="https://github.com/MajidInFocus/src
-  ">View on GitHub</a></li>
+        <li>🌐 <a href="https://github.com/MajidInFocus/src.git">View on GitHub</a></li>
       </ul>
   </li>
   <li>
     <strong>Train Ticketing System 🚂</strong> - The Train Ticketing System is a Python-based project I developed to practice coding concepts while preparing for my IGCSE Computer Science exam. The system allows users to view available train times, purchase tickets, and track the number of passengers and revenue. Key features include ticket availability, a user-friendly purchase process, and an end-of-day summary of transactions. This project introduced me to programming fundamentals such as loops, conditionals, functions, and data handling, it was the first step took in my coding journey.
     <ul>
-      <li>🌐 <a href="https://github.com/MajidInFocus/My-First-Project-
-">View on GitHub</a></li>
+      <li>🌐 <a href="https://github.com/MajidInFocus/My-First-Project-.git">View on GitHub</a></li>
     </ul>
   </li>
 </ul>
