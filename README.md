@@ -3,14 +3,15 @@
 <h1 align="center">Hi 👋, I'm MJ Harris </h1>
 <div align="center">
   <h3> 🖥️ Computer Science Enthusiast  |  🌿 Nature Lover </h3>
-  <h5> 🧬 Exploring the digital and natural worlds with equal curiosity. </h5>
-</div>
+  
+</div> 
 
 
 <!-- Bio -->
 <p align="center">
   I'm a <strong>2nd year Computer Science student</strong> with a keen interest in <em>Data Science</em> and <em>Astrophysics</em>. I love analysing data, solving complex problems, and exploring the mysteries of the universe through code!
 </p>
+<p align="center" >I am just <strong>exploring</strong> the <em>digital</em> and <em>natural worlds</em> with <strong>equal</strong> curiosity. 🧬 </p>
 
 <!-- GitHub Widgets -->
 <p align="center">
