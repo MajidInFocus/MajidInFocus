@@ -25,7 +25,7 @@
   <a href="https://twitter.com/@MJHarrisRo" target="_blank">
     <img src="https://img.shields.io/twitter/follow/MJHarrisRo?style=social" alt="Twitter Follow" />
   </a>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/majidinfocus" target="_blank">
+  <a href="https://www.linkedin.com/in/majidinfocus" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:contactmeatmj@gmail.com" target="_blank">
