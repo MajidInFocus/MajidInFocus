@@ -1,6 +1,7 @@
 
 <!-- Profile Title and Introduction -->
-<h1 align="center">Hi 👋, I'm MJ Harris </h1>
+<h1 align="center">Hi 👋 
+  I'm MJ Harris </h1>
 <div align="center">
   <h3> 🖥️ Computer Science Enthusiast  |  🌿 Nature Lover </h3>
   
