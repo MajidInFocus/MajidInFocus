@@ -4,7 +4,8 @@
   I'm MJ Harris </h1>
 <div align="center">
   <h3> 🖥️ Computer Science Enthusiast  |  🌿 Nature Lover </h3>
-  
+    <img src="https://github-readme-stats.vercel.app/api?username=MajidInFocus&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajidInFocus&layout=compact&theme=radical" alt="Top Languages" />
 </div> 
 
 
